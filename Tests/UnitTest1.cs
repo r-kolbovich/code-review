@@ -265,8 +265,8 @@ public class Tests
     {
         //Reducing comments from this test on. Most functions and steps are already explained within test 1
         //1.Login
-        //2.Navigate to “Reports & Settings” -> “Reports”
-        //3.Find “Project Profitability” report
+        //2.Navigate to Â“Reports & SettingsÂ” -> Â“ReportsÂ”
+        //3.Find Â“Project ProfitabilityÂ” report
         //4.Run report and verify that some results were returned
 
 
@@ -311,9 +311,9 @@ public class Tests
     public void Test3()
     {
         //1.Login
-        //2.Navigate to “Reports & Settings” -> “Activity log”
+        //2.Navigate to Â“Reports & SettingsÂ” -> Â“Activity logÂ”
         //3.Select first 3 items in the table
-        //4.Click “Actions” -> “Delete”
+        //4.Click Â“ActionsÂ” -> Â“DeleteÂ”
         //5.Verify that items were deleted
 
 
